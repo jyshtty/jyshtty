@@ -1,5 +1,6 @@
-# 💫 About Me:
-Django, Javascript and Cloud.
+<p align="center"><img height="auto" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/></p>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ajay Shetty</h1>
+<h3 align="center">I'm a passionate Full Stack Developer from Bengaluru,India.</h3>
 
 
 ## 🌐 Socials:
